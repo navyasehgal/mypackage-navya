@@ -1,0 +1,11 @@
+[project]
+name = "mypackage-navya"
+version = "0.1.0"
+description = "Practice package for DSCI 310"
+authors = [
+    { name="Navya Sehgal" }
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

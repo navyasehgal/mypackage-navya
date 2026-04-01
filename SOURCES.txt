@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+mypackage/mypackage/__init__.py
+mypackage/mypackage/math_utils.py
+mypackage_navya.egg-info/PKG-INFO
+mypackage_navya.egg-info/SOURCES.txt
+mypackage_navya.egg-info/dependency_links.txt
+mypackage_navya.egg-info/top_level.txt
